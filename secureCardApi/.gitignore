@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/.gitignore
+/apiDocuments.xml
+/compiler.xml
+/encoding.xml
+jarRepositories.xml
+misc.xml
+modules.xml
+secureCardApi.iml
+vcs.xml
